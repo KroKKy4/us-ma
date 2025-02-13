@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x  3 bubunator bubunator 4.0K Feb 13 20:50 ./
+drwxr-x--- 16 bubunator bubunator 4.0K Feb 13 20:49 ../
+-rw-rw-r--  1 bubunator bubunator  681 Feb 13 20:48 config.txt
+-rw-rw-r--  1 bubunator bubunator  167 Feb 13 20:44 first.txt
+drwxrwxr-x  8 bubunator bubunator 4.0K Feb 13 20:50 .git/
+-rw-rw-r--  1 bubunator bubunator    0 Feb 13 20:50 ls.txt
+-rw-rw-r--  1 bubunator bubunator    7 Feb 13 20:44 README.md
+-rw-rw-r--  1 bubunator bubunator  199 Feb 13 20:45 status.txt
